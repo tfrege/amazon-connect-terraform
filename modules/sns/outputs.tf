@@ -1,0 +1,3 @@
+output "topic_arn" {
+  
+}
